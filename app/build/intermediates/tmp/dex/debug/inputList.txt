@@ -1,0 +1,4 @@
+/Users/junghwansong/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/classes/debug
+/Users/junghwansong/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-4e6e80110b7fe088b5142dacbf555c3a150d2950.jar
+/Users/junghwansong/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-6324aba3224cbdd4aa305e2228ccf814ea3f2886.jar
+/Users/junghwansong/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/pre-dexed/debug/classes-1301f9f7c2a6ade1f9e861adcf8f7e9125e290f8.jar
